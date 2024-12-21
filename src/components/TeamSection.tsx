@@ -19,13 +19,7 @@ const creators = [
       linkedin: 'https://www.linkedin.com',
       buttonColor: 'bg-[#A580FC]',
     },
-    {
-      name: 'Muhammad Faizan Akram',
-      imageSrc: '/fai1.png', 
-      quote: '“Teaching guides others toward discovery and inspires continuous growth and curiosity.”',
-      linkedin: 'https://www.linkedin.com',
-      buttonColor: 'bg-[#A580FC]',
-    },
+  
     {
       name: 'Mubbara Naz',
       imageSrc: '/alif3.png',

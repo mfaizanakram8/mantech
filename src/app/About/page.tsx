@@ -3,11 +3,12 @@ import Image from 'next/image';
 import { FaTwitter, FaFacebook, FaInstagram } from 'react-icons/fa';
 import Link from 'next/link';
 import TeamSection from '@/components/TeamSection';
-import Testimonials from '@/components/Testimonials';
+
 
 const Staff = () => {
   const teamMembers = [
-    { name: 'Asif Langrah', role: 'Country Head Pakistan', image: '/save.png' },
+    { name: 'Muhammad faizan akram', role: 'Country Head Pakistan', image: '/fai1.png' },
+    { name: 'Muhammad Ali Raza', role: 'Project Head Pakistan', image: '/69.jpg' },
    
     
   ];
